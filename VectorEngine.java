@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class VectorEngine {
 
 	static Integer vectorLength;
